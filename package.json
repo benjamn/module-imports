@@ -1,7 +1,7 @@
 {
   "name": "module-imports",
   "author": "Ben Newman <ben@benjamn.com>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fast and accurate module dependency analyzer, with support for both CommonJS and ECMAScript 2015.",
   "main": "index.js",
   "scripts": {
